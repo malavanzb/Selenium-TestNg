@@ -1,0 +1,10 @@
+.classpath
+.project
+application.log
+.settings
+testng.xml
+testngD.xml
+/extent-reports
+/target/
+/test-output
+/extend-report
